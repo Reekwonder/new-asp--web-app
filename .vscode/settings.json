@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "MyFirstAzureWebApp\\bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/1610f4f1-523d-4710-9ce8-e1a825ba7333/resourceGroups/My_web_Hosting_Project/providers/Microsoft.Web/sites/ojoduwa-app"
+}
